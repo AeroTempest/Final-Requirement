@@ -50,7 +50,7 @@ To run this portfolio locally:
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://aerotempest.github.io/Final-Requirement/
 
 Open the index.html file in your browser.
 
